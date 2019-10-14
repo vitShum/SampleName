@@ -1,0 +1,17 @@
+body{
+    /* height: 2000px; */
+    background: linear-gradient(to bottom, #3f0390, #8b00a4);
+}
+.p-0{
+    padding: 0;
+}
+/* .crd{
+    display: block;
+    justify-content: center;
+    
+} */
+
+.text-paragraph{
+    font-size: 13px;
+    text-align: center;
+}
